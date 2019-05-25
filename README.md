@@ -2,14 +2,14 @@
 
 CRUD Board by array
 
->> 1. Description
+> 1. Description
 
 This board is the simple board that can be create new text, edit and delete the text saved.
 
 The board is stored all data into an array, so if reload the webpage, the data is not stored forever.
 
 
-2. Create App
+> 2. Create App
 
     create-react-app react_board
     
@@ -17,12 +17,18 @@ The board is stored all data into an array, so if reload the webpage, the data i
     
     npm start
     
-3. Components 
+> 3. Components 
   
-  -- App : the default component
+  -- App : the default component to print the board list
   
-  -- BoardList
+  -- BoardForm : to return the form to enter new board item or edit the board item selected
   
-  -- BoardItem
+  -- BoardItem : to find the details for one board item 
+  
+> 4. Features
+
+<img src="img/boardList.PNG" width="400px">
+
+
   
   
