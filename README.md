@@ -35,6 +35,6 @@ The board is stored all data into an array, so if reload the webpage, the data i
 <img src="img/boardListAdd.PNG" width="400px">
 
 
-- Delete data by clicking X button
+- Delete data for No.2 and No.4 by clicking X button
  
  <img src="img/boardListDelete.PNG" width="400px">
