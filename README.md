@@ -27,10 +27,7 @@ The board is stored all data into an array, so if reload the webpage, the data i
   
 > 4. Features
 
-<img src="img/boardList.PNG" width="400px">
-
-
-- Add more data
+- Add data by entering to Form
 
 <img src="img/boardListAdd.PNG" width="400px">
 
