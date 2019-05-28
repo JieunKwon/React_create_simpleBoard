@@ -6,7 +6,7 @@ CRUD Board by array
 
 This board is the simple board that can be create new text, edit and delete the text saved.
 
-The board is stored all data into an array, so if reload the webpage, the data is not stored forever.
+The board is stored all data into an array, so if reloaded the webpage from new browser, the data is not stored forever.
 
 
 > 2. Create App
