@@ -35,3 +35,7 @@ The board is stored all data into an array, so the data can not be stored foreve
 - Delete data for No.2 and No.4 by clicking X button
  
  <img src="img/boardListDelete.PNG" width="400px">
+
+- Update data by clicking the title and changing data 
+
+ <img src="img/boardEdit.PNG" width="400px">  <img src="img/boardEdit2.PNG" width="400px">
