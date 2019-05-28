@@ -146,7 +146,7 @@ class BoardForm extends React.Component{
     }
 }
 
-// to return one borad item into tr tag
+// to return one borad item by a table 
 class BoardItem extends React.Component {
 
     handleRemove = () => {
